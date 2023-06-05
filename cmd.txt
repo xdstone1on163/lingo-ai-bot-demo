@@ -1,4 +1,4 @@
-python3 ai_robot_transcribe_api_latest.py "可以用成语 繁花似锦 帮我造一个句子么？ "  0
+python3 ai_robot_transcribe_api_v4.py "可以用成语 繁花似锦 帮我造一个句子么？ "  0
 python3 ai_robot_transcribe_api_v3.py job1 audios/ask-for-chengyu-story-as-10-year-old-boy.pcm 0
 python3 ai_robot_transcribe_api_v2.py job1 s3://lingo-audio-material/questions/ask-for-chengyu-story-as-10-year-old-boy.wav 0
 python3 ai_robot_transcribe_api_v1.py job1 s3://lingo-audio-material/questions/ask-for-chinese-learning.wav 0
